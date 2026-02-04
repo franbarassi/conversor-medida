@@ -1,0 +1,4 @@
+ALGORITMO:
+1. Solicitar al usuario las medidas de la pieza del mueble en cms
+2. Convertir las medidas de centímetros a pulgadas
+3. Mostrar las medidas convertidas en pulgadas al usuario
